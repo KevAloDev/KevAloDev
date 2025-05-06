@@ -20,10 +20,10 @@ Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
  
  
 ![PYTHON](https://img.shields.io/badge/-[PYTHON]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![HMTL5](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![JAVASCRIPT](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
+![HMTL5](https://img.shields.io/badge/-[HTML5]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
+![JAVASCRIPT](https://img.shields.io/badge/-[JAVASCRIPT]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-[SQL]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-[CSS3]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
  
 ## 📚 GitHub Analytics
  
