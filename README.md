@@ -18,17 +18,12 @@ Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
  
 ## 🛠️ Tecnologías y herramientas
  
-A continuación, puedes agregar o eliminar badges (insignias). Reemplaza el nombre de la tecnología y la URL de la imagen si lo deseas.
  
-![Lenguaje/Tech1](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![Lenguaje/Tech2](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![Lenguaje/Tech3](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![Herramienta/Tech4](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
- 
-> **Ejemplo**:  
-> `![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)`
- 
----
+![PYTHON](https://img.shields.io/badge/-[PYTHON]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
+![HMTL5](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
+![JAVASCRIPT](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
  
 ## 📚 GitHub Analytics
  
