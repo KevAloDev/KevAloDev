@@ -50,7 +50,7 @@ Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](URL_PERFIL_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](URL_PERFIL_TWITTER)
 [![Portafolio Web](https://img.shields.io/badge/-Website-000?logo=githubpages&logoColor=white&style=flat)](URL_DE_TU_SITIO_WEB)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:TUCORREO@ejemplo.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:kevinalonsodln89@gmail.com)
  
 *(Agrega o quita las redes que te interesen.)*
  
@@ -58,9 +58,8 @@ Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
  
 ## ⚡ Curiosidades
  
-- 🎮 Me encanta [tu hobby o pasión] en mi tiempo libre.
-- 📚 Disfruto leer sobre [temática o género literario].
-- 🎯 Meta actual: [objetivo personal/profesional].
+- 🎮 Me encanta aprender en mi tiempo libre.
+- 🎯 Meta actual: Aprender y desarrollarme como programador.
  
 ---
  
