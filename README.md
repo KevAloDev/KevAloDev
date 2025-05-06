@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Kevin Alonso]
+# 👋 ¡Hola! Soy Kevin Alonso.
  
 Desarrollador de Aplicaciones Multiplataforma.
 En constante aprendizaje.
@@ -7,11 +7,12 @@ En constante aprendizaje.
  
 ## 🚀 Sobre mí
  
-Hola, soy [Kevin Alonso], estudiante de Desarrollo de Aplicaciones Multiplataforma.
-- 🧠 **Actualmente aprendiendo**: [tecnologías / frameworks / metodologías]  
-- 🏆 **Me gustaría**: Colaborar en proyectos de [temática u objetivo]  
-- 🤝 **Busco conectar con**: Gente a la que le interese [interés profesional]  
-- 🌍 **Ubicación**: [Ciudad, País]
+Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma.
+
+- 🧠 **Actualmente aprendiendo**: JAVA / SQL / HTML / CSS / JAVASCRIPT.
+- 🏆 **Me gustaría**: Aprender y desarrollarme como programador de cara a futuro. 
+- 🤝 **Busco conectar con**: Gente a la que le interese este mundo. 
+- 🌍 **Ubicación**: Guriezo, España.
  
 ---
  
