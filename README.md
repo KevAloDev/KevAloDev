@@ -28,7 +28,7 @@ Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
  
 ## 📚 GitHub Analytics
  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kevin_Alonso_De_La_Nuez&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kevin-Alonso-De-La-Nuez&show_icons=true&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CHGsmr&layout=compact&theme=tokyonight)
  
 ---
