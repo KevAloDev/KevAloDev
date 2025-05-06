@@ -28,22 +28,14 @@ Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
  
 ## 📚 GitHub Analytics
  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[CHGsmr&show_icons=true&theme=tokyonight](https://github.com/KevAloDev/KevAloDev/edit/main/README.md))
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=KevinAlonso&show_icons=true&theme=tokyonight
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CHGsmr&layout=compact&theme=tokyonight)
  
 ---
  
 ## 📂 Proyectos destacados
  
-- **[Proyecto #1](URL_DEL_REPOSITORIO)**
-  - Descripción corta de lo que hace tu proyecto, sus objetivos o tecnologías clave.
- 
-- **[Proyecto #2](URL_DEL_REPOSITORIO)**
-  - Explica brevemente qué aprendiste o lograste con este proyecto.
- 
-- **[Proyecto #3](URL_DEL_REPOSITORIO)**
-  - Incluye curiosidades, retos que resolviste o la motivación detrás.
- 
+
 ---
  
 ## 📫 ¿Dónde encontrarme?
