@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Kevin Alonso.
  
 Desarrollador de Aplicaciones Multiplataforma.
+
 En constante aprendizaje.
  
 ---
@@ -27,7 +28,7 @@ Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
  
 ## 📚 GitHub Analytics
  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CHGsmr&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[CHGsmr&show_icons=true&theme=tokyonight](https://github.com/KevAloDev/KevAloDev/edit/main/README.md))
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CHGsmr&layout=compact&theme=tokyonight)
  
 ---
@@ -52,7 +53,6 @@ Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma
 [![Portafolio Web](https://img.shields.io/badge/-Website-000?logo=githubpages&logoColor=white&style=flat)](URL_DE_TU_SITIO_WEB)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:kevinalonsodln89@gmail.com)
  
-*(Agrega o quita las redes que te interesen.)*
  
 ---
  
