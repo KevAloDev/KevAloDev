@@ -1,12 +1,13 @@
-# 👋 ¡Hola! Soy [TU NOMBRE]
+# 👋 ¡Hola! Soy [Kevin Alonso]
  
-[Rol o especialidad principal] | Apasionado por [tema que te motive] | En constante aprendizaje
+Desarrollador de Aplicaciones Multiplataforma.
+En constante aprendizaje.
  
 ---
  
 ## 🚀 Sobre mí
  
-Hola, soy [TU NOMBRE], un/a [descripción breve de quién eres y qué te motiva]. Me enfoco en [tecnologías / áreas de interés] y me apasiona [interés principal].  
+Hola, soy [Kevin Alonso], estudiante de Desarrollo de Aplicaciones Multiplataforma.
 - 🧠 **Actualmente aprendiendo**: [tecnologías / frameworks / metodologías]  
 - 🏆 **Me gustaría**: Colaborar en proyectos de [temática u objetivo]  
 - 🤝 **Busco conectar con**: Gente a la que le interese [interés profesional]  
