@@ -38,7 +38,7 @@ I'm a junior software developer completing my internship, focused on gaining rea
 
 ## 📂 Featured Projects
 
-*ContainerProyect*
+*⭐ContainerProyect⭐*
 
 ---
 
