@@ -1,59 +1,60 @@
-# 👋 ¡Hola! Soy Kevin Alonso.
- 
-Desarrollador de Aplicaciones Multiplataforma.
+# 👋 Hi, I'm Kevin Alonso
 
-En constante aprendizaje.
- 
----
- 
-## 🚀 Sobre mí
- 
-Hola, soy Kevin Alonso, estudiante de Desarrollo de Aplicaciones Multiplataforma.
-
-- 🧠 **Actualmente aprendiendo**: JAVA / SQL / HTML / CSS / JAVASCRIPT.
-- 🏆 **Me gustaría**: Aprender y desarrollarme como programador de cara a futuro. 
-- 🤝 **Busco conectar con**: Gente a la que le interese este mundo. 
-- 🌍 **Ubicación**: Guriezo, España.
- 
----
- 
-## 🛠️ Tecnologías y herramientas
- 
- 
-![PYTHON](https://img.shields.io/badge/-PYTHON-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![HMTL5](https://img.shields.io/badge/-HTML5-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
- 
-## 📚 GitHub Analytics
- 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=KevAloDev&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CHGsmr&layout=compact&theme=tokyonight)
- 
----
- 
-## 📂 Proyectos destacados
- 
+💻 Junior Software Developer  
+🚀 Currently completing an internship in Italy  
+📍 Originally from Spain  
 
 ---
- 
-## 📫 ¿Dónde encontrarme?
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](URL_PERFIL_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](URL_PERFIL_TWITTER)
-[![Portafolio Web](https://img.shields.io/badge/-Website-000?logo=githubpages&logoColor=white&style=flat)](URL_DE_TU_SITIO_WEB)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:kevinalonsodln89@gmail.com)
- 
- 
+
+## 🚀 About Me
+
+I'm a junior software developer completing my internship, focused on gaining real-world experience in fullstack and backend development. I enjoy learning new technologies, improving my skills every day, and building practical projects that solve problems.
+
+- 🧠 Currently working with: Microsoft Visual Studio, Java, SQL, JavaScript, HTML, CSS, REST APIs  
+- ⚙️ Interested in: Fullstack development and backend systems  
+- 📈 Goal: Grow as a developer and secure my first professional role  
+- 🤝 Open to: Connecting with developers and tech opportunities  
+
 ---
- 
-## ⚡ Curiosidades
- 
-- 🎮 Me encanta aprender en mi tiempo libre.
-- 🎯 Meta actual: Aprender y desarrollarme como programador.
- 
+
+## 🛠️ Tech Stack & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+
 ---
- 
-> “Una frase inspiradora o cita que te motive” — *Autor/a de la cita*
- 
+
+## 📚 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevAloDev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevAloDev&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Featured Projects
+
+*Coming soon — I am currently working on fullstack projects.*
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/kevin-alonso-de-la-nuez-98a346396/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:alokevdln@gmail.com)  
+
+💬 Feel free to reach out for opportunities or collaborations.
+
+---
+
+## ⚡ Fun Facts
+
+- 💡 Passionate about continuous learning and skill improvement  
+- 🧠 Enjoy solving problems and building practical projects  
+- 🚀 Focused on becoming a fullstack developer  
+
+> ⭐ Always learning, always building
