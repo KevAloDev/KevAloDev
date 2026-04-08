@@ -26,6 +26,7 @@ I'm a junior software developer completing my internship, focused on gaining rea
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat)
 
 ---
 
