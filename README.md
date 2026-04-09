@@ -31,16 +31,11 @@ I'm a junior software developer completing my internship, focused on gaining rea
 
 ---
 
-## 📚 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevAloDev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevAloDev&layout=compact&theme=tokyonight)
-
----
 
 ## 📂 Featured Projects
 
 *⭐ContainerProyect⭐- https://github.com/KevAloDev/ContainerProyect*
+
 *⭐Spotify-Clone⭐- https://github.com/KevAloDev/Spotify-Clone*
 
 ---
