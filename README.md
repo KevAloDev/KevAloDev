@@ -41,6 +41,7 @@ I'm a junior software developer completing my internship, focused on gaining rea
 ## 📂 Featured Projects
 
 *⭐ContainerProyect⭐- https://github.com/KevAloDev/ContainerProyect*
+*⭐Spotify-Clone⭐- https://github.com/KevAloDev/Spotify-Clone*
 
 ---
 
