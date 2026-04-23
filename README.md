@@ -38,7 +38,7 @@ I'm a junior software developer completing my internship, focused on gaining rea
 
 *⭐Spotify-Clone⭐- https://github.com/KevAloDev/Spotify-Clone*
 
-*⭐GodsBattle⭐- https://github.com/KevAloDev/GodsBattle
+*⭐GodsBattle⭐- https://github.com/KevAloDev/GodsBattle*
 
 ---
 
